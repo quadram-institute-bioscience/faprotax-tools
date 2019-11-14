@@ -1,0 +1,24 @@
+func_table.tsv:
+  Table 'otutab.tax' collapsed according to groups defined in 'FAPROTAX.txt'
+  Generated on: 2019.11.13 15:12:10
+  Used command: collapse_table.py -i otutab.tax -g FAPROTAX.txt -o func_table.tsv -v --force -r func_table.r -l func_table.log -s func_table.s
+Sub-tables corresponding to groups saved to 'func_table.s'
+
+func_table.tsv:
+  Table 'otutab.tax' collapsed according to groups defined in 'FAPROTAX.txt'
+  Generated on: 2019.11.13 15:13:24
+  Used command: collapse_table.py -i otutab.tax -g FAPROTAX.txt -o func_table.tsv -v --force -r func_table.r -l func_table.log -s func_table.s
+Sub-tables corresponding to groups saved to 'func_table.s'
+
+func_table.tsv:
+  Table 'otutab.tax' collapsed according to groups defined in 'FAPROTAX.txt'
+  Generated on: 2019.11.13 15:14:33
+  Used command: collapse_table.py -i otutab.tax -g FAPROTAX.txt -o func_table.tsv -v --force -r func_table.r -l func_table.log -s func_table.s
+Sub-tables corresponding to groups saved to 'func_table.s'
+
+func_table.tsv:
+  Table 'otutab.tax' collapsed according to groups defined in 'FAPROTAX.txt'
+  Generated on: 2019.11.13 15:18:15
+  Used command: collapse_table.py -i otutab.tax -g FAPROTAX.txt -o func_table.tsv -v --force -r func_table.r -l func_table.log -s func_table.s -d taxonomy
+Sub-tables corresponding to groups saved to 'func_table.s'
+
