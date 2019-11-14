@@ -11,9 +11,12 @@ perl faproparse.pl
 
 Example:
 ```
-perl fapro_class.pl "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;" 
+perl fapro_class.pl "Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium;" | grep '=='
 ```
 
 Output:
 ```
+== methanol_oxidation
+== methanotrophy
+== ureolysis
 ```
