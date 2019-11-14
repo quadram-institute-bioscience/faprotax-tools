@@ -41,9 +41,9 @@ OTU_16  N/A     Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
 OTU_17  fermentation;   Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus;?
 ...
 ```
- - otutab.functions.tsv
+ - otutab.functions.tsv (TSV)
 ```
-Class   13xSPFxCD       14xSPFxCD       15xSPFxCD       16xSPFxCD       19xSPFxHFD      21xSPFxHFD      22xSPFxHFD      24xSPFxHFD
+Class                           13CD    14CD    15CD    16CD    19HFD   21HFD   22HFD   24xHFD
 aerobic_chemoheterotrophy       0       1       0       0       0       1       0       0
-fermentation    340     537     301     724     238     166     461     215
+fermentation                    340     537     301     724     238     166     461     215
 ```
