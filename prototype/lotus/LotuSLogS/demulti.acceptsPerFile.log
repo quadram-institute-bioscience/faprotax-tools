@@ -1,0 +1,24 @@
+13xSPFxCD_R1.fastq,13xSPFxCD_R2.fastq
+Pair 1: 35.692% of 4889 reads accepted (74.657% end-trimmed)
+Pair 2: 57.251% of 4889 reads accepted (76.457% end - trimmed)
+14xSPFxCD_R1.fastq,14xSPFxCD_R2.fastq
+Pair 1: 36.395% of 4910 reads accepted (73.707% end-trimmed)
+Pair 2: 59.145% of 4910 reads accepted (78.391% end - trimmed)
+15xSPFxCD_R1.fastq,15xSPFxCD_R2.fastq
+Pair 1: 33.176% of 4886 reads accepted (73.025% end-trimmed)
+Pair 2: 55.710% of 4886 reads accepted (76.197% end - trimmed)
+16xSPFxCD_R1.fastq,16xSPFxCD_R2.fastq
+Pair 1: 36.384% of 4862 reads accepted (74.969% end-trimmed)
+Pair 2: 58.433% of 4862 reads accepted (78.815% end - trimmed)
+19xSPFxHFD_R1.fastq,19xSPFxHFD_R2.fastq
+Pair 1: 32.531% of 4860 reads accepted (69.877% end-trimmed)
+Pair 2: 56.584% of 4860 reads accepted (78.210% end - trimmed)
+21xSPFxHFD_R1.fastq,21xSPFxHFD_R2.fastq
+Pair 1: 34.672% of 4880 reads accepted (72.254% end-trimmed)
+Pair 2: 59.918% of 4880 reads accepted (79.549% end - trimmed)
+22xSPFxHFD_R1.fastq,22xSPFxHFD_R2.fastq
+Pair 1: 35.578% of 4916 reads accepted (74.532% end-trimmed)
+Pair 2: 58.381% of 4916 reads accepted (79.455% end - trimmed)
+24xSPFxHFD_R1.fastq,24xSPFxHFD_R2.fastq
+Pair 1: 35.823% of 4913 reads accepted (73.601% end-trimmed)
+Pair 2: 61.164% of 4913 reads accepted (80.786% end - trimmed)

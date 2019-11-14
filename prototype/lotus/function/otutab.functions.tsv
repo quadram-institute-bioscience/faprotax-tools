@@ -1,0 +1,8 @@
+Class	13xSPFxCD	14xSPFxCD	15xSPFxCD	16xSPFxCD	19xSPFxHFD	21xSPFxHFD	22xSPFxHFD	24xSPFxHFD
+aerobic_chemoheterotrophy	0	1	0	0	0	1	0	0
+fermentation	340	537	301	724	238	166	461	215
+human_gut	64	65	60	100	58	109	146	151
+mammal_gut	21	48	32	48	30	68	53	76
+nitrate_reduction	22	5	6	2	32	30	67	23
+nitrate_respiration	22	5	5	2	32	30	61	17
+sulfate_respiration	22	34	32	74	46	41	65	19

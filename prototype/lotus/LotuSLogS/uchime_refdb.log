@@ -1,0 +1,17 @@
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.9Gb total), 4 cores
+/bin/usearch -uchime2_ref lotus/tmpFiles//otu_seeds.fna -db /home/metagenomics2019/lotus_pipeline//DB//rdp_gold.fa -mode balanced -strand plus -chimeras lotus/ExtraFiles//chimeras_ref.fa -notmatched lotus/otus.fa -threads 4 -log lotus/LotuSLogS//uchime_refdb.log 
+Started Fri Sep 13 15:10:33 2019
+00:00 40Mb    100.0% Reading lotus/tmpFiles//otu_seeds.fna
+00:00 73Mb    100.0% Reading /home/metagenomics2019/lotus_pipeline//DB//rdp_gold.fa
+00:00 40Mb    100.0% Converting to upper case
+00:01 41Mb    100.0% Word stats
+00:01 41Mb    100.0% Alloc rows
+00:03 154Mb   100.0% Build index
+00:05 217Mb   100.0% Chimeras 11/104 (10.6%), in db 3 (2.9%), not matched 90 (86.5%)
+46563 mallocs, 149 frees
+
+WARNING: Input has lower-case masked sequences
+
+Finished Fri Sep 13 15:10:38 2019
+Elapsed time 00:05
+Max memory 217Mb

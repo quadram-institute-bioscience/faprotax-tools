@@ -1,0 +1,40 @@
+sdm 1.5 beta
+Input File:  several
+Output File: lotus/tmpFiles//demulti.1.fna
+Statistics of reads that passed the mid Qual filter
+
+Reads not High Qual: 0
+Rejected:0
+Accepted: 0 (0 were end-trimmed)
+Singletons among these: 0; 0
+Bad Reads recovered with dereplication: 0
+Short amplicon mode.
+Min/Avg/Max stats Pair 1
+     - Seq Length : 0/0/0
+     - Quality :   0/0/0
+     - Median Seq Length : 0, Quality : 0
+     - Accum. Error -nan
+Trimmed due to:
+  > 25 avg qual in 20 bp windows :          0
+  > (-1) acc. errors, trimmed seqs :       0
+Rejected due to:
+  < min Seq length (170)  :                0
+  < avg Quality (20)  :                    0
+  < window (50 nt) avg. Quality (25)  :    0
+  > max Seq length (1000)  :               0
+  > (8) homo-nt run  :                     0
+  > (1) amb. Bases  :                      0
+  > (2.5) binomial est. errors :           0
+Specific sequence searches:
+  -With fwd Primer remaining (<= 0 mismatches) :           0
+  -Barcode unidentified (max 0 errors) :                   0
+
+SampleID	Barcode	Instances
+13xSPFxCD		0
+14xSPFxCD		0
+15xSPFxCD		0
+16xSPFxCD		0
+19xSPFxHFD		0
+21xSPFxHFD		0
+22xSPFxHFD		0
+24xSPFxHFD		0

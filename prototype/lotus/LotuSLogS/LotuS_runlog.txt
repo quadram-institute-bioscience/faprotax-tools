@@ -1,0 +1,96 @@
+=========================================================================
+          
+          LotuS 1.62
+=========================================================================
+COMMAND
+/usr/bin/perl /home/metagenomics2019/lotus_pipeline/lotus.pl -threads 4 -simBasedTaxo lambda -c /home/metagenomics2019/lotus_pipeline/lOTUs.cfg -i reads -o lotus -m metadata.map -s /home/metagenomics2019/lotus_pipeline/sdm_miSeq.txt
+
+Checking for updates..  Your LotuS version is up-to-date!
+=========================================================================
+          Reading mapping file
+=========================================================================
+Sequence files are indicated in mapping file.
+Switching to paired end read mode
+Running UPARSE de novo sequence clustering..
+Running fast LotuS mode..
+------------ I/O configuration --------------
+Input=   reads
+Output=  lotus
+TempDir= lotus/tmpFiles/
+------------ Configuration LotuS --------------
+Sequencing platform=454
+AmpliconType=SSU
+OTU id=0.97
+min unique read abundance=2
+UCHIME_REFDB, ABSKEW=/home/metagenomics2019/lotus_pipeline//DB//rdp_gold.fa, 2
+OTU, Chimera prefix=OTU_, CHIMERA_
+Similarity search with Lambda
+ReferenceDatabase=greengenes
+RefDB location=/home/metagenomics2019/lotus_pipeline//DB//gg_13_5.fasta
+TaxonomicGroup=bacteria
+--------------------------------------------
+=========================================================================
+          Demultiplexing input files
+           elapsed time: 1 s
+=========================================================================
+
+
+--------- UPARSE clustering ----------- 
+elapsed time: 2 s
+
+
+ =========================================================================
+ UPARSE core routine
+ Cluster at 97%
+=========================================================================
+=========================================================================
+          Extending OTU Seeds
+          elapsed time: 3 s
+=========================================================================
+=========================================================================
+          Merging OTU seed paired reads
+=========================================================================
+=========================================================================
+          Removed 76 contaminated OTUs (PhiX ref DB).
+=========================================================================
+=========================================================================
+          Removed 11 chimeric
+          and 76 phiX contaminant
+          OTUs (3769 read counts) from abundance matrix, 
+          93 OTUs remaining.
+=========================================================================
+=========================================================================
+          Assigning taxonomy against reference using LAMBDA
+          elapsed time: 8 s
+=========================================================================
+=========================================================================
+          Calculating Taxonomic Abundance Tables from greengenes assignments
+          elapsed time: 173 s
+=========================================================================
+Calculating higher abundance levels
+Total reads in matrix: 13441
+TaxLvl	%AssignedReads	%AssignedTax
+Phylum	100	100
+Class	100	100
+Order	100	100
+Family	73.3948366936984	84.6153846153846
+Genus	35.1833940927014	57.5757575757576
+Species	9.37430250725392	20.5882352941176
+
+=========================================================================
+          biom file created: lotus/OTU.biom
+=========================================================================
+=========================================================================
+          Building tree and aligning OTUs
+          elapsed time: 173 s
+=========================================================================
+Building tree..
+Delete temp dir lotus/tmpFiles/
+=========================================================================
+          Finished after 180 s 
+          Output files are in 
+          lotus
+          The files in LotuSLogS/ have statistics about this run
+          See LotuSLogS/citations.txt for programs used in this run
+          Next steps: you can use the rtk program in this pipeline, to generate rarefaction curves and diversity estimates of your samples.
+=========================================================================

@@ -1,0 +1,15 @@
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.9Gb total), 4 cores
+/bin/usearch -usearch_local lotus/tmpFiles//otu_seeds.fna -db /home/metagenomics2019/lotus_pipeline//DB//phiX.fasta -uc lotus/tmpFiles//otu_seeds.fna.cont_hit.uc -query_cov .8 -log lotus/LotuSLogS//PhiX_contami_align.log -id .95 -threads 4 -strand both 
+Started Fri Sep 13 15:10:33 2019
+00:00 40Mb    100.0% Reading /home/metagenomics2019/lotus_pipeline//DB//phiX.fasta
+00:00 6.4Mb   100.0% Masking (fastnucleo)
+00:00 7.4Mb   100.0% Word stats
+00:00 7.4Mb   100.0% Alloc rows
+00:00 7.4Mb   100.0% Build index
+Db load time 0 secs (0s)
+Search time 0 secs (0s)
+19831 mallocs, 18745 frees
+
+Finished Fri Sep 13 15:10:33 2019
+Elapsed time 00:00
+Max memory 82Mb

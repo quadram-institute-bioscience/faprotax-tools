@@ -1,0 +1,15 @@
+Order	13xSPFxCD	14xSPFxCD	15xSPFxCD	16xSPFxCD	19xSPFxHFD	21xSPFxHFD	22xSPFxHFD	24xSPFxHFD
+Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales	1	1	2	0	0	4	3	5
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales	1312	1429	1268	1103	521	212	722	409
+Bacteria;Cyanobacteria;4C0d-2;YS2	1	1	6	1	0	0	0	0
+Bacteria;Deferribacteres;Deferribacteres;Deferribacterales	0	1	0	26	12	45	3	2
+Bacteria;Firmicutes;Bacilli;Bacillales	0	0	0	0	0	0	3	0
+Bacteria;Firmicutes;Bacilli;Lactobacillales	1	0	2	0	22	1	12	12
+Bacteria;Firmicutes;Clostridia;Clostridiales	418	326	355	437	926	1201	899	1206
+Bacteria;Firmicutes;Erysipelotrichi;Erysipelotrichales	10	8	0	2	0	0	1	3
+Bacteria;Proteobacteria;Alphaproteobacteria;RF32	11	48	24	11	5	5	37	9
+Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales	22	34	32	74	46	41	65	19
+Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales	0	0	2	3	0	0	2	0
+Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales	0	0	1	0	0	0	3	6
+Bacteria;TM7;TM7-3;CW040	0	0	0	0	0	0	0	4
+Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales	0	1	0	0	0	1	0	0

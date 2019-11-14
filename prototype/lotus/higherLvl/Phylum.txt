@@ -1,0 +1,9 @@
+Phylum	13xSPFxCD	14xSPFxCD	15xSPFxCD	16xSPFxCD	19xSPFxHFD	21xSPFxHFD	22xSPFxHFD	24xSPFxHFD
+Bacteria;Actinobacteria	1	1	2	0	0	4	3	5
+Bacteria;Bacteroidetes	1312	1429	1268	1103	521	212	722	409
+Bacteria;Cyanobacteria	1	1	6	1	0	0	0	0
+Bacteria;Deferribacteres	0	1	0	26	12	45	3	2
+Bacteria;Firmicutes	429	334	357	439	948	1202	915	1221
+Bacteria;Proteobacteria	33	82	59	88	51	46	107	34
+Bacteria;TM7	0	0	0	0	0	0	0	4
+Bacteria;Verrucomicrobia	0	1	0	0	0	1	0	0

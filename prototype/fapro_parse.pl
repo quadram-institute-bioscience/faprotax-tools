@@ -3,12 +3,13 @@ use 5.012;
 use warnings;
 use Getopt::Long;
 use Data::Dumper;
-$Data::Dumper::Terse = 1;
 use Term::ANSIColor qw(:constants);
 use Storable;
 use Carp qw(confess);
 use FindBin qw($RealBin);
 
+$Data::Dumper::Terse = 1;
+my $parser_version = '1.0';
 my $func_db = "$RealBin/db/FAPROTAX.txt";
 my $output_data = "$RealBin/db/FAPROTAX.db";
 my $opt_verbose;
@@ -30,12 +31,14 @@ my $data = parse_db($func_db);
 
 say GREEN Dumper $data->{taxa};
 say RESET Dumper $data->{groups};
+say Dumper $data->{version};
 say RESET '';
 
 store $data, "$output_data" || confess "Unable to write FAPROTAX db in <$output_data>\n"    ;
 sub parse_db {
     my ($database) = @_;
     my $data;
+    $data->{version} = $parser_version;
     open my $I, '<', "$database" || confess "Unable to open FAPROTAX db, expected in <$database>\n";
     my $new_section;
     my $section_name;

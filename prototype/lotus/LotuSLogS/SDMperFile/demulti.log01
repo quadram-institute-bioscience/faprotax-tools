@@ -1,0 +1,34 @@
+sdm 1.5 beta
+Input File:  reads/14xSPFxCD_R1.fastq,14xSPFxCD_R2.fastq
+Output File: lotus/tmpFiles//demulti.1.fna
+Statistics of high quality reads
+
+Reads processed: 4,910; 4,910 (pair 1;pair 2)
+Rejected: 3,123; 2,006
+Accepted: 1,787; 2,904 (1,291; 1,061 were end-trimmed)
+Singletons among these: 0; 0
+Bad Reads recovered with dereplication: 390
+Short amplicon mode.
+Min/Avg/Max stats Pair 1
+     - Seq Length : 170/170/170
+     - Quality :   28/34.0229/38
+     - Median Seq Length : 170, Quality : 35
+     - Accum. Error 0.180938
+Trimmed due to:
+  > 25 avg qual in 20 bp windows :         0; 0
+  > (0.75) acc. errors, trimmed seqs :     0; 0
+Rejected due to:
+  < min Seq length (170)  :                2,672; 2,006
+       -after Quality trimming :           2,672; 2,006
+  < avg Quality (27)  :                    0; 0
+  < window (50 nt) avg. Quality (25)  :    0; 0
+  > max Seq length (1000)  :               0; 0
+  > (8) homo-nt run  :                     0; 0
+  > (0) amb. Bases  :                      0; 0
+  > (2.5) binomial est. errors :           451; 0
+Specific sequence searches:
+  -With fwd Primer remaining (<= 0 mismatches) :           0; 0
+  -Barcode unidentified (max 0 errors) :                   0
+
+SampleID	Barcode	Instances
+14xSPFxCD		2,177
