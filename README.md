@@ -10,3 +10,8 @@ The FAPROTAX database is maintained by [Stilianos Louca](http://www.loucalab.com
 :page_with_curl: FAPROTAX comes with a [user license](FAPROTAX_license.md) that must be redistributed with the database itself. 
 
 For further information see [FAPROTAX website](http://www.loucalab.com/archive/FAPROTAX).
+
+### Per implementation of the FAPROTAX parser
+
+ * [Notes on the parser](prototype/parser.md)
+ * See "prototype" folder for Perl scripts
