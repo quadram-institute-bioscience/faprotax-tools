@@ -13,5 +13,5 @@ For further information see [FAPROTAX website](http://www.loucalab.com/archive/F
 
 ### Per implementation of the FAPROTAX parser
 
- * [Notes on the parser](prototype/parser.md)
+ * [Notes on the parser](prototype/devnotes.md)
  * See "prototype" folder for Perl scripts
