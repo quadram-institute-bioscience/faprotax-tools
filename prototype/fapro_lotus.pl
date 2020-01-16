@@ -95,7 +95,9 @@ print_classes($otu_taxonomy, $otu_classes, "$opt_outdir/OTU_functions.txt");
 print_otutable($otu_classes, $otutable_file, "$opt_outdir/otutab.functions.tsv");
 
 sub print_otutable {
+
     my ($otu_classes, $otutable_file, $output) = @_;
+    verbose("Preparing Functional OTU table: $output");
     my $O;
     if (not open  $O, '>', "$output") {
         die " FATAL ERROR:\n Unable to write to \"$output\".\n";
@@ -158,7 +160,9 @@ sub print_otutable {
 }
 
 sub print_classes {
+
     my ($tax, $class, $out) = @_;
+    verbose("Preparing Functional annotation: $out");
     my $O;
     if (not open  $O, '>', "$out") {
         die " FATAL ERROR:\n Unable to write to \"$out\".\n";
