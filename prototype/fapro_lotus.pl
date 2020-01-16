@@ -246,7 +246,7 @@ sub load_taxonomy {
         if ($line_counter == 1) {
             if ($fields[0] eq 'OTU' and $fields[1] eq 'Domain' and $fields[-1] eq 'Species') {
                 verbose("OTU taxonomy: valid header ($file)");
-            } elsif ($fields[0] eq 'domain' and $fields[1] eq 'Domain' and $fields[-1] eq 'OTU') {
+            } elsif ($fields[0] eq 'domain' and $fields[-1] eq 'OTU') {
                 $format = 'rdp';
                 verbose("OTU taxonomy: probably valid header ($file)");
             } else {
