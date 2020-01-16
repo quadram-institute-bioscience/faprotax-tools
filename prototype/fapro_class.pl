@@ -12,9 +12,11 @@ my $opt_db = "$RealBin/db/FAPROTAX.db";
 my $opt_verbose;
 my $opt_help;
 my $opt_taxonomy;
+my $opt_debug;
 my $DB;
 my $_opt = GetOptions(
     'd|database=s' => \$opt_db,
+    'debug'        => \$opt_debug,
     'v|verbose'    => \$opt_verbose,
     'h|help'       => \$opt_help,
     't|taxonomy'   => \$opt_taxonomy,
@@ -41,6 +43,8 @@ die " FATAL ERROR:\n Unable to read FAPROTAX db ($opt_db).\n" if ($@);
 my @ranks = split /;/, $opt_taxonomy;
 
 my %hits;
+
+say ">> ", join(', ', @ranks);
 for my $i ( keys %{ $DB->{taxa} }) {
     
     my $pattern = $i;
@@ -56,5 +60,6 @@ for my $i ( keys %{ $DB->{taxa} }) {
 
 for my $h (sort keys %hits) {
     say "== $h";
-    say Dumper $DB->{groups}->{$h}->{members};
+    say Dumper $DB->{groups}->{$h}->{members} if ($opt_debug);
+    say join(', ', @{$DB->{groups}->{$h}->{members}}) if ($opt_verbose and not $opt_debug);
 }
