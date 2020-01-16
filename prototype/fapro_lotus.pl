@@ -235,22 +235,32 @@ sub load_taxonomy {
     # OTU_4   Bacteria        Bacteroidetes   Bacteroidia     Bacteroidales   Rikenellaceae   ?       ?
     # OTU_2   Bacteria        Bacteroidetes   Bacteroidia     Bacteroidales   Porphyromonadaceae      Parabacteroides ?
 
+             #domain     phylum     class order family     genus species    OTU
     my $line_counter = 0;
     while (my $line = readline($I)  ) {
         $line_counter++;
         chomp($line);
         my @fields = split /\t/, $line;
+        my $format = 'blast';
+
         if ($line_counter == 1) {
             if ($fields[0] eq 'OTU' and $fields[1] eq 'Domain' and $fields[-1] eq 'Species') {
                 verbose("OTU taxonomy: valid header ($file)");
+            } elsif ($fields[0] eq 'domain' and $fields[1] eq 'Domain' and $fields[-1] eq 'OTU') {
+                $format = 'rdp';
+                verbose("OTU taxonomy: probably valid header ($file)");
             } else {
                 die " FATAL ERROR:\n OTU taxonomy ($file) not valid: line 1 has a bad header\n";
             }
         } else {
             last if ($#fields != 7);
-            my $otu = shift @fields;
-            $taxonomy{ $otu} = join(";", @fields);
-
+            if ($format eq 'blast') {
+                my $otu = shift @fields;
+                $taxonomy{ $otu} = join(";", @fields);
+            } elsif ($format eq 'rdp') {
+                my $otu = pop @fields;
+                $taxonomy{ $otu} = join(";", @fields);                
+            } 
         }
     }
     verbose("OTU taxonomy: $line_counter lines parsed");
