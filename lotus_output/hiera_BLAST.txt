@@ -1,0 +1,594 @@
+OTU	Domain	Phylum	Class	Order	Family	Genus	Species
+OTU_10	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured organism	?
+OTU_5	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_13	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_9	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+OTU_4	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_2	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	?
+OTU_6	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_11	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_8	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	Faecalibaculum rodentium
+OTU_12	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	uncultured Lachnospiraceae bacterium
+OTU_14	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_1	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	Lachnospiraceae bacterium 607
+OTU_3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	?
+OTU_15	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+OTU_17	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_16	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_18	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_7	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella	?
+OTU_20	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_22	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_23	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_24	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_26	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	Parabacteroides sp. YL27
+OTU_21	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus] torques group	?
+OTU_19	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001	?
+OTU_25	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	A2	Lachnospiraceae bacterium A2
+OTU_31	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_32	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_33	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_27	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_28	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1	?
+OTU_30	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] ruminantium group	?
+OTU_35	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	?
+OTU_29	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1	?
+OTU_37	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	?	?
+OTU_34	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	[Clostridium] leptum
+OTU_36	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+OTU_42	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_40	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_41	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_44	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_45	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_46	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	?
+OTU_38	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae NK4A214 group	?
+OTU_48	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_47	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+OTU_49	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_43	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	?
+OTU_39	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	?
+OTU_50	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_51	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	?
+OTU_55	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	?	?
+OTU_54	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+OTU_52	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	uncultured rumen bacterium
+OTU_57	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_58	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	?	?
+OTU_53	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	uncultured Clostridiales bacterium
+OTU_62	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_59	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+OTU_64	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_67	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	?	?
+OTU_56	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_69	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_63	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+OTU_66	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+OTU_61	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1	Corynebacterium kroppenstedtii
+OTU_72	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	uncultured Bacteroidales bacterium
+OTU_71	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_65	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1	?
+OTU_60	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	?
+OTU_77	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_75	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 5	?
+OTU_70	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_80	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	uncultured organism
+OTU_74	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	?
+OTU_73	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	?
+OTU_79	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	?
+OTU_68	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	?	?
+OTU_76	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_84	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	uncultured organism
+OTU_78	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1	?
+OTU_83	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1	?
+OTU_82	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_81	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+OTU_86	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+OTU_88	Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	?
+OTU_89	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_92	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_95	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_87	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	GCA-900066575	?
+OTU_90	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_85	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_93	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter	Turicibacter sp. LA61
+OTU_97	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_91	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Marvinbryantia	?
+OTU_94	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	ASF356	Clostridium sp. ASF356
+OTU_100	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_98	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella	?
+OTU_101	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_96	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_102	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_99	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_103	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus	?
+OTU_107	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_106	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Parasutterella	?
+OTU_111	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Dubosiella	Dubosiella newyorkensis
+OTU_104	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_105	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 9	?
+OTU_114	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	?
+OTU_116	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	?
+OTU_108	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	?
+OTU_117	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_109	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_110	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	?	?
+OTU_112	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_113	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_115	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Acetatifactor	Clostridiales bacterium CIEAF 015
+OTU_118	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	?
+OTU_120	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_125	Bacteria	Cyanobacteria	Melainabacteria	Gastranaerophilales	?	?	?
+OTU_121	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	?
+OTU_124	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	uncultured rumen bacterium
+OTU_126	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_133	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_122	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_123	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	uncultured organism
+OTU_131	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_119	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	?
+OTU_130	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_129	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	?
+OTU_135	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_134	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_132	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_128	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	?
+OTU_127	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Citrobacter	?
+OTU_136	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	Anaerotruncus sp. G3(2012)
+OTU_138	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_141	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+OTU_137	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	gut metagenome
+OTU_139	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-010	?
+OTU_140	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Lachnospiraceae bacterium DW52
+OTU_142	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] eligens group	?
+OTU_147	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_143	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_145	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	?
+OTU_146	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_149	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	?
+OTU_144	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group	uncultured organism
+OTU_148	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 2	?
+OTU_153	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_154	Bacteria	Epsilonbacteraeota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter	Syphacia muris
+OTU_150	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	?
+OTU_151	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 6	?
+OTU_156	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	DNF00809	?
+OTU_152	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_158	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	?
+OTU_160	Bacteria	Tenericutes	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	?	?
+OTU_155	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_157	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	uncultured rumen bacterium 4C28d-18
+OTU_159	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group	uncultured organism
+OTU_164	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	uncultured organism
+OTU_163	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+OTU_166	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_161	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	?
+OTU_162	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	?
+OTU_165	Bacteria	Cyanobacteria	Melainabacteria	Gastranaerophilales	?	?	?
+OTU_167	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_173	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_169	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_170	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+OTU_168	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013	?
+OTU_172	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_171	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	?	?
+OTU_180	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_175	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_181	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_174	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	?
+OTU_178	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	A2	?
+OTU_182	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	?
+OTU_177	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_176	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001	?
+OTU_179	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_184	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_187	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	?
+OTU_185	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_188	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	mouse gut metagenome	?
+OTU_191	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_189	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Peptoniphilus	?
+OTU_194	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_183	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_186	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	uncultured organism
+OTU_198	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_193	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	?	?
+OTU_199	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_192	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus	?
+OTU_196	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Pyramidobacter	?
+OTU_190	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas	?
+OTU_195	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella	?
+OTU_197	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Curvibacter	?
+OTU_205	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella	?
+OTU_202	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_200	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_201	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1	?
+OTU_206	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	?	?	?
+OTU_211	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	?
+OTU_204	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Clostridioides	?
+OTU_203	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	Romboutsia timonensis
+OTU_208	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-009	?
+OTU_210	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+OTU_212	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus	?
+OTU_207	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_209	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+OTU_214	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_213	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Coprobacillus	Coprobacillus cateniformis
+OTU_218	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_220	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalitalea	?
+OTU_215	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_217	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_221	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-010	?
+OTU_219	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	?
+OTU_229	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	uncultured organism
+OTU_223	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	?	?
+OTU_216	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	uncultured Clostridiales bacterium
+OTU_222	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_224	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Eggerthella	?
+OTU_225	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	?
+OTU_228	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_226	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-002	uncultured rumen bacterium
+OTU_232	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	?	?
+OTU_231	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Tyzzerella	uncultured organism
+OTU_236	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured organism	?
+OTU_230	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	Lachnospiraceae bacterium A4
+OTU_238	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Candidatus Saccharibacteria bacterium UB2523	?	?
+OTU_233	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1	?
+OTU_243	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	?	uncultured Verrucomicrobia bacterium
+OTU_237	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	uncultured Clostridiales bacterium
+OTU_234	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	?
+OTU_240	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_239	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 5	uncultured Clostridiales bacterium
+OTU_235	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_241	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_244	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	?
+OTU_242	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	?
+OTU_247	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 5	?
+OTU_245	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Phascolarctobacterium	uncultured organism
+OTU_246	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Tepidimonas	?
+OTU_251	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_248	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	Lachnospiraceae bacterium 10-1
+OTU_249	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_256	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	?
+OTU_255	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 2	?
+OTU_250	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII UCG-001	?
+OTU_253	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group	?
+OTU_254	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_257	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Negativibacillus	?
+OTU_262	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	Candidatus Saccharimonas	?
+OTU_252	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+OTU_259	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	?
+OTU_261	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+OTU_258	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_265	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_260	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005	uncultured Clostridiales bacterium
+OTU_269	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+OTU_264	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_263	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_270	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Dolosigranulum	?
+OTU_272	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma	?
+OTU_266	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	uncultured rumen bacterium
+OTU_271	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Candidatus Arthromitus	?
+OTU_267	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_273	Bacteria	Acidobacteria	Subgroup 6	?	?	?	?
+OTU_268	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Butyricicoccus	?
+OTU_275	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+OTU_274	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae NK4A214 group	uncultured rumen bacterium
+OTU_276	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_279	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	?
+OTU_282	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	?	?	?
+OTU_283	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_277	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum	?
+OTU_278	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	uncultured rumen bacterium	?	?
+OTU_281	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1	?
+OTU_285	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes timonensis JC136
+OTU_280	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Flavonifractor	?
+OTU_284	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_287	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	?
+OTU_286	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001	?
+OTU_295	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_288	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_292	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_289	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Acetitomaculum	Firmicutes bacterium CAG_194_44_15
+OTU_293	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	?	?
+OTU_290	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 9	?
+OTU_294	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	?	?
+OTU_296	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+OTU_302	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_299	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	?
+OTU_300	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	?	?
+OTU_291	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter	?
+OTU_298	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	[Eubacterium] nodatum group	uncultured organism
+OTU_297	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_301	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	?
+OTU_303	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter	?
+OTU_307	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+OTU_306	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	?	?	?
+OTU_304	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_305	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_309	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_308	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Parasutterella	Burkholderiales bacterium YL45
+OTU_317	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriales Incertae Sedis	?	?
+OTU_310	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium	?
+OTU_314	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+OTU_315	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] ventriosum group	?
+OTU_312	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	?
+OTU_311	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] xylanophilum group	?
+OTU_316	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_319	Bacteria	Firmicutes	Bacilli	Bacillales	Listeriaceae	Brochothrix	?
+OTU_318	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_320	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_322	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	?	?	?
+OTU_313	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Proteus	?
+OTU_321	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Macrococcus	?
+OTU_327	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_323	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_325	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_332	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+OTU_324	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	?
+OTU_326	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_329	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Weissella	?
+OTU_328	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	?
+OTU_331	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	?
+OTU_334	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_330	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_333	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	uncultured organism
+OTU_335	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	?
+OTU_336	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_341	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_340	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	uncultured organism
+OTU_342	Bacteria	Chlamydiae	Chlamydiae	Chlamydiales	Chlamydiaceae	Chlamydia	?
+OTU_337	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter	?
+OTU_338	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Acidovorax	?
+OTU_339	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_345	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_352	Bacteria	Cyanobacteria	Oxyphotobacteria	Chloroplast	?	?	?
+OTU_344	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Papillibacter	?
+OTU_343	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_348	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_350	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_349	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+OTU_347	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides	?
+OTU_346	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_351	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_358	Bacteria	Planctomycetes	Planctomycetacia	Isosphaerales	Isosphaeraceae	?	?
+OTU_353	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Alloiococcus	?
+OTU_356	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001	?
+OTU_355	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Salsuginibacillus	Salsuginibacillus kocurii
+OTU_354	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_360	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_359	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_357	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_361	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1	?
+OTU_362	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-010	?
+OTU_365	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Harryflintia	?
+OTU_363	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_364	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_373	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	?
+OTU_366	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_367	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_368	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_371	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_370	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Promicromonosporaceae	?	?
+OTU_376	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Pygmaiobacter	?
+OTU_369	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Tyzzerella 3	?
+OTU_374	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	uncultured rumen bacterium
+OTU_372	Bacteria	Actinobacteria	Actinobacteria	Streptosporangiales	Nocardiopsaceae	Nocardiopsis	?
+OTU_379	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Senegalimassilia	Senegalimassilia anaerobia JC110
+OTU_377	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	?
+OTU_378	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_375	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_381	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacteraceae	Mucispirillum	?
+OTU_382	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_383	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Weeksella	Weeksella virosa DSM 16922
+OTU_380	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Harryflintia	?
+OTU_386	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	?
+OTU_387	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_384	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Aureimonas	?
+OTU_385	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	[Eubacterium] brachy group	?
+OTU_388	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Candidatus Stoquefichus	?
+OTU_394	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_391	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_393	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	?	?	?
+OTU_389	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia	?
+OTU_392	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_390	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_395	Bacteria	?	?	?	?	?	?
+OTU_399	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+OTU_398	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_397	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001	?
+OTU_396	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae NK4A214 group	?
+OTU_402	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_401	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_403	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_404	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_409	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_405	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_408	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	?
+OTU_400	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Massilia	?
+OTU_407	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group	?
+OTU_410	Bacteria	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	?	?
+OTU_412	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	?
+OTU_406	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Muribacter	Muribacter muris
+OTU_411	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 5	uncultured Clostridiales bacterium
+OTU_414	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	UBA1819	uncultured organism
+OTU_413	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1	Clostridium sp. Marseille-P2434
+OTU_415	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_422	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma	?
+OTU_418	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	?
+OTU_421	Bacteria	Cyanobacteria	Melainabacteria	Gastranaerophilales	?	?	?
+OTU_417	Bacteria	Tenericutes	Mollicutes	Anaeroplasmatales	Anaeroplasmataceae	Anaeroplasma	?
+OTU_419	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-009	?
+OTU_427	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibaculum	Faecalibaculum rodentium
+OTU_420	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_425	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_416	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Massilia	?
+OTU_424	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group	?
+OTU_429	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_426	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group	uncultured rumen bacterium
+OTU_423	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_428	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	0319-6G20	?	?
+OTU_433	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_432	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	A2	?
+OTU_430	Bacteria	Firmicutes	Clostridia	Clostridiales	Defluviitaleaceae	Defluviitaleaceae UCG-011	uncultured organism
+OTU_435	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_431	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Anaerovorax	?
+OTU_440	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_434	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_438	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides faecichinchillae
+OTU_436	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	uncultured Firmicutes bacterium	?	?
+OTU_439	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_437	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_443	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_442	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_441	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group	?
+OTU_446	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_449	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001	uncultured organism
+OTU_445	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	GCA-900066225	?
+OTU_450	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group	?
+OTU_447	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Peptococcus	?
+OTU_444	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Arenimonas	?
+OTU_448	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 9	?
+OTU_454	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	?
+OTU_455	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured organism	?
+OTU_451	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_453	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_452	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005	?
+OTU_457	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_464	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	?	?
+OTU_456	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_463	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	?
+OTU_461	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_459	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	?
+OTU_460	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus	?
+OTU_469	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_458	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Brevibacillus	?
+OTU_466	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_462	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013	?
+OTU_465	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_467	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_474	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+OTU_468	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Luteimonas	?
+OTU_475	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+OTU_480	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_471	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Tyzzerella 3	?
+OTU_470	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	?	?
+OTU_472	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_476	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured organism	?
+OTU_479	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_473	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group	?
+OTU_478	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_477	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_482	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_481	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group	?
+OTU_492	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_485	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+OTU_483	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_489	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-009	?
+OTU_487	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_484	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium	?
+OTU_488	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_490	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	?
+OTU_486	Bacteria	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	?	?
+OTU_493	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 6	uncultured organism
+OTU_497	Bacteria	Planctomycetes	Planctomycetacia	Pirellulales	Pirellulaceae	Pir4 lineage	?
+OTU_491	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	?
+OTU_496	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_494	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_500	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_506	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_498	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_501	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_495	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group	metagenome
+OTU_499	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_502	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-008	?
+OTU_505	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	?	?	?
+OTU_503	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	UBA1819	?
+OTU_513	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	?
+OTU_504	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_515	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_509	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_518	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_516	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_510	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 13	?
+OTU_508	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 1	uncultured Clostridiaceae bacterium
+OTU_507	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	?	?
+OTU_511	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_519	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+OTU_520	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	?	?	?
+OTU_514	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_512	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	?
+OTU_521	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_517	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	?	?
+OTU_528	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_526	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	?
+OTU_522	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_530	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_523	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_524	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_533	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Bacteroidales bacterium
+OTU_527	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+OTU_525	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_535	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	?
+OTU_532	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_531	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 6	?
+OTU_536	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_529	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 1	?
+OTU_541	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_539	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013	?
+OTU_534	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-010	?
+OTU_538	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium	Corynebacterium lowii
+OTU_537	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_549	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_547	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_548	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	?	?
+OTU_540	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Anaerofustis	?
+OTU_543	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_542	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_545	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_544	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_550	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Rubritaleaceae	Luteolibacter	?
+OTU_546	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014	?
+OTU_557	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_563	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_554	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_551	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Peptococcus	?
+OTU_552	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_555	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	?	?	?
+OTU_559	Bacteria	Firmicutes	Bacilli	Lactobacillales	Leuconostocaceae	Leuconostoc	?
+OTU_556	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	metagenome
+OTU_562	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Oscillibacter	[Clostridium] leptum
+OTU_558	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1	uncultured rumen bacterium
+OTU_553	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	?
+OTU_561	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_566	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_560	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	?
+OTU_568	Bacteria	Firmicutes	Clostridia	Clostridiales	?	?	?
+OTU_567	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	?	?	?
+OTU_572	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_571	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_564	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_565	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group	?
+OTU_573	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_576	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_574	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured organism
+OTU_577	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	uncultured Bacteroidales bacterium	?
+OTU_575	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-001	?
+OTU_569	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	uncultured prokaryote	?
+OTU_570	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_579	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_587	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenellaceae RC9 gut group	?
+OTU_578	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_589	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	?	?
+OTU_580	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	?	?
+OTU_585	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Muribaculaceae	?	?
+OTU_581	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1	?
+OTU_593	Bacteria	Cyanobacteria	Oxyphotobacteria	Chloroplast	?	?	?
+OTU_591	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	?
+OTU_582	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	?	?
+OTU_583	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group	?	?
+OTU_590	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	?	?
+OTU_584	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia	?
+OTU_588	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Harryflintia	?
+OTU_586	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	?	?
+OTU_592	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013	?
+OTU_594	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39	?	?	?

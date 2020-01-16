@@ -1,0 +1,594 @@
+#OTU	Classes	Taxonomy
+OTU_1	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;Lachnospiraceae bacterium 607
+OTU_10	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured organism;?
+OTU_100	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_101	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_102	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_103	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Anaerococcus;?
+OTU_104	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_105	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;?
+OTU_106	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Parasutterella;?
+OTU_107	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_108	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;?
+OTU_109	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_11	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_110	N/A	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;?;?
+OTU_111	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Dubosiella;Dubosiella newyorkensis
+OTU_112	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_113	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_114	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;?
+OTU_115	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Acetatifactor;Clostridiales bacterium CIEAF 015
+OTU_116	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;Muribaculum;?
+OTU_117	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_118	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;?
+OTU_119	aerobic_chemoheterotrophy;fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;?
+OTU_12	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured Lachnospiraceae bacterium
+OTU_120	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_121	sulfate_respiration;	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;?
+OTU_122	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_123	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured organism
+OTU_124	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured rumen bacterium
+OTU_125	N/A	Bacteria;Cyanobacteria;Melainabacteria;Gastranaerophilales;?;?;?
+OTU_126	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_127	aerobic_chemoheterotrophy;fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter;?
+OTU_128	aerobic_chemoheterotrophy;fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella;?
+OTU_129	aerobic_chemoheterotrophy;animal_parasites_or_symbionts;aromatic_compound_degradation;human_pathogens_all;	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;?
+OTU_13	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_130	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_131	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_132	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_133	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_134	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_135	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_136	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;Anaerotruncus sp. G3(2012)
+OTU_137	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;gut metagenome
+OTU_138	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_139	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-010;?
+OTU_14	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_140	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;Lachnospiraceae bacterium DW52
+OTU_141	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;?;?;?
+OTU_142	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] eligens group;?
+OTU_143	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_144	fermentation;human_gut;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] hallii group;uncultured organism
+OTU_145	N/A	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae;Mucispirillum;?
+OTU_146	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_147	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_148	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;?
+OTU_149	fermentation;	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;?
+OTU_15	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;uncultured Bacteroidales bacterium
+OTU_150	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;?
+OTU_151	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 6;?
+OTU_152	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_153	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_154	N/A	Bacteria;Epsilonbacteraeota;Campylobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;Syphacia muris
+OTU_155	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_156	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;DNF00809;?
+OTU_157	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured rumen bacterium 4C28d-18
+OTU_158	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;?
+OTU_159	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;uncultured organism
+OTU_16	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_160	N/A	Bacteria;Tenericutes;Mollicutes;Anaeroplasmatales;Anaeroplasmataceae;?;?
+OTU_161	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;?
+OTU_162	sulfate_respiration;	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;?
+OTU_163	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;?
+OTU_164	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;uncultured organism
+OTU_165	N/A	Bacteria;Cyanobacteria;Melainabacteria;Gastranaerophilales;?;?;?
+OTU_166	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_167	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_168	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-013;?
+OTU_169	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_17	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_170	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;?
+OTU_171	aerobic_chemoheterotrophy;dark_hydrogen_oxidation;	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;?;?
+OTU_172	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_173	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_174	aerobic_chemoheterotrophy;animal_parasites_or_symbionts;fermentation;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus;?
+OTU_175	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_176	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;?
+OTU_177	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_178	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;A2;?
+OTU_179	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_18	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_180	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_181	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_182	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;?
+OTU_183	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_184	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_185	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_186	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;uncultured organism
+OTU_187	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Holdemanella;?
+OTU_188	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;mouse gut metagenome;?
+OTU_189	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XI;Peptoniphilus;?
+OTU_19	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;?
+OTU_190	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Pelomonas;?
+OTU_191	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_192	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Anaerotruncus;?
+OTU_193	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;?;?
+OTU_194	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_195	animal_parasites_or_symbionts;human_pathogens_all;	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Moraxella;?
+OTU_196	N/A	Bacteria;Synergistetes;Synergistia;Synergistales;Synergistaceae;Pyramidobacter;?
+OTU_197	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Curvibacter;?
+OTU_198	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_199	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_2	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;Muribaculum;?
+OTU_20	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_200	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_201	N/A	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;?
+OTU_202	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_203	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Romboutsia;Romboutsia timonensis
+OTU_204	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Clostridioides;?
+OTU_205	fermentation;	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Atopobiaceae;Olsenella;?
+OTU_206	N/A	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;?;?;?
+OTU_207	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_208	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-009;?
+OTU_209	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;?
+OTU_21	human_gut;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Ruminococcus] torques group;?
+OTU_210	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;?
+OTU_211	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenella;?
+OTU_212	N/A	Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus;?
+OTU_213	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Coprobacillus;Coprobacillus cateniformis
+OTU_214	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_215	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_216	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;uncultured Clostridiales bacterium
+OTU_217	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_218	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_219	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;?
+OTU_22	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_220	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalitalea;?
+OTU_221	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-010;?
+OTU_222	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_223	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;?;?
+OTU_224	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Eggerthella;?
+OTU_225	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;?
+OTU_226	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-002;uncultured rumen bacterium
+OTU_228	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_229	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;uncultured organism
+OTU_23	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_230	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;Lachnospiraceae bacterium A4
+OTU_231	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella;uncultured organism
+OTU_232	sulfate_respiration;	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;?;?
+OTU_233	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;?
+OTU_234	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;?
+OTU_235	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_236	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured organism;?
+OTU_237	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;uncultured Clostridiales bacterium
+OTU_238	N/A	Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Candidatus Saccharibacteria bacterium UB2523;?;?
+OTU_239	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured Clostridiales bacterium
+OTU_24	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_240	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_241	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_242	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;?
+OTU_243	aerobic_chemoheterotrophy;	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;?;uncultured Verrucomicrobia bacterium
+OTU_244	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;?
+OTU_245	fermentation;	Bacteria;Firmicutes;Negativicutes;Selenomonadales;Acidaminococcaceae;Phascolarctobacterium;uncultured organism
+OTU_246	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Tepidimonas;?
+OTU_247	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;?
+OTU_248	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;Lachnospiraceae bacterium 10-1
+OTU_249	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_25	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;A2;Lachnospiraceae bacterium A2
+OTU_250	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Family XIII UCG-001;?
+OTU_251	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_252	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;?
+OTU_253	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;?
+OTU_254	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_255	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 2;?
+OTU_256	fermentation;	Bacteria;Fusobacteria;Fusobacteriia;Fusobacteriales;Fusobacteriaceae;Fusobacterium;?
+OTU_257	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Negativibacillus;?
+OTU_258	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_259	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;?
+OTU_26	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;Muribaculum;Parabacteroides sp. YL27
+OTU_260	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;uncultured Clostridiales bacterium
+OTU_261	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism
+OTU_262	N/A	Bacteria;Patescibacteria;Saccharimonadia;Saccharimonadales;Saccharimonadaceae;Candidatus Saccharimonas;?
+OTU_263	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_264	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_265	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_266	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured rumen bacterium
+OTU_267	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_268	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Butyricicoccus;?
+OTU_269	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;?
+OTU_27	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_270	N/A	Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Dolosigranulum;?
+OTU_271	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Candidatus Arthromitus;?
+OTU_272	aerobic_chemoheterotrophy;	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;?
+OTU_273	N/A	Bacteria;Acidobacteria;Subgroup 6;?;?;?;?
+OTU_274	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae NK4A214 group;uncultured rumen bacterium
+OTU_275	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;?
+OTU_276	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_277	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;?
+OTU_278	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;uncultured rumen bacterium;?;?
+OTU_279	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;?
+OTU_28	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;?
+OTU_280	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Flavonifractor;?
+OTU_281	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;?
+OTU_282	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;?;?;?
+OTU_283	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_284	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_285	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;Alistipes timonensis JC136
+OTU_286	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;?
+OTU_287	aerobic_chemoheterotrophy;	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Weeksellaceae;Chryseobacterium;?
+OTU_288	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_289	dark_hydrogen_oxidation;fermentation;reductive_acetogenesis;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Acetitomaculum;Firmicutes bacterium CAG_194_44_15
+OTU_29	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;?
+OTU_290	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;?
+OTU_291	fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;?
+OTU_292	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_293	N/A	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Neisseriaceae;?;?
+OTU_294	N/A	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;?;?
+OTU_295	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_296	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
+OTU_297	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_298	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] nodatum group;uncultured organism
+OTU_299	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia;?
+OTU_3	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;?
+OTU_30	xylanolysis;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ruminantium group;?
+OTU_300	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;?;?
+OTU_301	aerobic_chemoheterotrophy;fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Weeksellaceae;Cloacibacterium;?
+OTU_302	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_303	N/A	Bacteria;Bacteroidetes;Bacteroidia;Cytophagales;Hymenobacteraceae;Hymenobacter;?
+OTU_304	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_305	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_306	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;?;?;?
+OTU_307	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism
+OTU_308	aerobic_chemoheterotrophy;human_pathogens_all;human_pathogens_pneumonia;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Parasutterella;Burkholderiales bacterium YL45
+OTU_309	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_31	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_310	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnoclostridium;?
+OTU_311	fermentation;xylanolysis;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] xylanophilum group;?
+OTU_312	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;?
+OTU_313	animal_parasites_or_symbionts;fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Proteus;?
+OTU_314	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;?
+OTU_315	human_gut;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;[Eubacterium] ventriosum group;?
+OTU_316	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_317	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriales Incertae Sedis;?;?
+OTU_318	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_319	fermentation;	Bacteria;Firmicutes;Bacilli;Bacillales;Listeriaceae;Brochothrix;?
+OTU_32	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_320	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_321	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Macrococcus;?
+OTU_322	N/A	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;?;?;?
+OTU_323	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_324	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;?
+OTU_325	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_326	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_327	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_328	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;?
+OTU_329	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Weissella;?
+OTU_33	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_330	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_331	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;?
+OTU_332	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism
+OTU_333	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;uncultured organism
+OTU_334	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_335	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Micrococcaceae;Rothia;?
+OTU_336	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_337	aerobic_chemoheterotrophy;animal_parasites_or_symbionts;fermentation;	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Enhydrobacter;?
+OTU_338	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Acidovorax;?
+OTU_339	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_34	human_gut;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+OTU_340	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;uncultured organism
+OTU_341	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_342	intracellular_parasites;	Bacteria;Chlamydiae;Chlamydiae;Chlamydiales;Chlamydiaceae;Chlamydia;?
+OTU_343	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_344	aromatic_compound_degradation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Papillibacter;?
+OTU_345	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_346	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_347	aerobic_chemoheterotrophy;aromatic_compound_degradation;	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Nocardioidaceae;Nocardioides;?
+OTU_348	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_349	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;?
+OTU_35	fermentation;	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Coriobacteriaceae;Collinsella;?
+OTU_350	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_351	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_352	N/A	Bacteria;Cyanobacteria;Oxyphotobacteria;Chloroplast;?;?;?
+OTU_353	N/A	Bacteria;Firmicutes;Bacilli;Lactobacillales;Carnobacteriaceae;Alloiococcus;?
+OTU_354	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_355	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Salsuginibacillus;Salsuginibacillus kocurii
+OTU_356	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;?
+OTU_357	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_358	aerobic_chemoheterotrophy;	Bacteria;Planctomycetes;Planctomycetacia;Isosphaerales;Isosphaeraceae;?;?
+OTU_359	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_36	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;?
+OTU_360	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_361	N/A	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;?
+OTU_362	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-010;?
+OTU_363	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_364	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_365	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Harryflintia;?
+OTU_366	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_367	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_368	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_369	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella 3;?
+OTU_37	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;?;?
+OTU_370	N/A	Bacteria;Actinobacteria;Actinobacteria;Micrococcales;Promicromonosporaceae;?;?
+OTU_371	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_372	aerobic_chemoheterotrophy;	Bacteria;Actinobacteria;Actinobacteria;Streptosporangiales;Nocardiopsaceae;Nocardiopsis;?
+OTU_373	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;?
+OTU_374	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;uncultured rumen bacterium
+OTU_375	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_376	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Pygmaiobacter;?
+OTU_377	aerobic_chemoheterotrophy;human_pathogens_all;nitrate_respiration;	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;?
+OTU_378	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_379	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Senegalimassilia;Senegalimassilia anaerobia JC110
+OTU_38	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae NK4A214 group;?
+OTU_380	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Harryflintia;?
+OTU_381	N/A	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;Deferribacteraceae;Mucispirillum;?
+OTU_382	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_383	aerobic_chemoheterotrophy;	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Weeksellaceae;Weeksella;Weeksella virosa DSM 16922
+OTU_384	N/A	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Aureimonas;?
+OTU_385	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;[Eubacterium] brachy group;?
+OTU_386	aerobic_chemoheterotrophy;fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Flavobacteriales;Weeksellaceae;Cloacibacterium;?
+OTU_387	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_388	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Candidatus Stoquefichus;?
+OTU_389	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;?
+OTU_39	fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;?
+OTU_390	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_391	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_392	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_393	N/A	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;?;?;?
+OTU_394	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_395	N/A	Bacteria;?;?;?;?;?;?
+OTU_396	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae NK4A214 group;?
+OTU_397	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;?
+OTU_398	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_399	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;?
+OTU_4	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_40	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_400	aerobic_chemoheterotrophy;ureolysis;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Massilia;?
+OTU_401	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_402	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_403	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_404	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_405	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_406	animal_parasites_or_symbionts;	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Muribacter;Muribacter muris
+OTU_407	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;?
+OTU_408	N/A	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium;?
+OTU_409	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_41	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_410	N/A	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;?;?
+OTU_411	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;uncultured Clostridiales bacterium
+OTU_412	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;?
+OTU_413	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;Clostridium sp. Marseille-P2434
+OTU_414	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;UBA1819;uncultured organism
+OTU_415	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_416	aerobic_chemoheterotrophy;ureolysis;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Massilia;?
+OTU_417	fermentation;	Bacteria;Tenericutes;Mollicutes;Anaeroplasmatales;Anaeroplasmataceae;Anaeroplasma;?
+OTU_418	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;?
+OTU_419	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-009;?
+OTU_42	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_420	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_421	N/A	Bacteria;Cyanobacteria;Melainabacteria;Gastranaerophilales;?;?;?
+OTU_422	N/A	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Ureaplasma;?
+OTU_423	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_424	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;?
+OTU_425	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_426	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;uncultured rumen bacterium
+OTU_427	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalibaculum;Faecalibaculum rodentium
+OTU_428	N/A	Bacteria;Proteobacteria;Deltaproteobacteria;Oligoflexales;0319-6G20;?;?
+OTU_429	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_43	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;?
+OTU_430	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Defluviitaleaceae;Defluviitaleaceae UCG-011;uncultured organism
+OTU_431	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Anaerovorax;?
+OTU_432	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;A2;?
+OTU_433	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_434	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_435	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_436	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;uncultured Firmicutes bacterium;?;?
+OTU_437	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_438	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides faecichinchillae
+OTU_439	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_44	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_440	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_441	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;[Eubacterium] coprostanoligenes group;?
+OTU_442	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_443	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_444	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;?
+OTU_445	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;GCA-900066225;?
+OTU_446	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_447	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;?
+OTU_448	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 9;?
+OTU_449	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-001;uncultured organism
+OTU_45	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_450	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Family XIII AD3011 group;?
+OTU_451	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_452	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-005;?
+OTU_453	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_454	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;?
+OTU_455	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured organism;?
+OTU_456	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_457	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_458	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Paenibacillaceae;Brevibacillus;?
+OTU_459	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;?
+OTU_46	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenellaceae RC9 gut group;?
+OTU_460	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;Enterorhabdus;?
+OTU_461	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_462	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-013;?
+OTU_463	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;?
+OTU_464	intracellular_parasites;	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Mitochondria;?;?
+OTU_465	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_466	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_467	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_468	N/A	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;?
+OTU_469	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_47	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;?
+OTU_470	N/A	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;?;?
+OTU_471	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Tyzzerella 3;?
+OTU_472	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_473	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Family XIII AD3011 group;?
+OTU_474	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism
+OTU_475	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
+OTU_476	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured organism;?
+OTU_477	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_478	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_479	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_48	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_480	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_481	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Family XIII;Family XIII AD3011 group;?
+OTU_482	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_483	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_484	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;?
+OTU_485	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
+OTU_486	N/A	Bacteria;Actinobacteria;Thermoleophilia;Solirubrobacterales;Solirubrobacteraceae;?;?
+OTU_487	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_488	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_489	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-009;?
+OTU_49	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_490	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_491	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;?
+OTU_492	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_493	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 6;uncultured organism
+OTU_494	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_495	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;Christensenellaceae R-7 group;metagenome
+OTU_496	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_497	N/A	Bacteria;Planctomycetes;Planctomycetacia;Pirellulales;Pirellulaceae;Pir4 lineage;?
+OTU_498	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_499	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_5	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_50	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_500	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_501	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_502	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-008;?
+OTU_503	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;UBA1819;?
+OTU_504	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_505	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;?;?;?
+OTU_506	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_507	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;?;?
+OTU_508	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;uncultured Clostridiaceae bacterium
+OTU_509	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_51	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Subdoligranulum;?
+OTU_510	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 13;?
+OTU_511	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_512	aerobic_chemoheterotrophy;	Bacteria;Actinobacteria;Actinobacteria;Streptomycetales;Streptomycetaceae;Streptomyces;?
+OTU_513	animal_parasites_or_symbionts;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae UCG-001;?
+OTU_514	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_515	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_516	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_517	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Christensenellaceae;?;?
+OTU_518	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_519	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
+OTU_52	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;uncultured rumen bacterium
+OTU_520	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;?;?;?
+OTU_521	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_522	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_523	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_524	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_525	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_526	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenellaceae RC9 gut group;?
+OTU_527	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
+OTU_528	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_529	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 1;?
+OTU_53	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;uncultured Clostridiales bacterium
+OTU_530	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_531	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 6;?
+OTU_532	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_533	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Alistipes;uncultured Bacteroidales bacterium
+OTU_534	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae UCG-010;?
+OTU_535	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_536	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_537	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_538	N/A	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium;Corynebacterium lowii
+OTU_539	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-013;?
+OTU_54	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism
+OTU_540	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Eubacteriaceae;Anaerofustis;?
+OTU_541	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_542	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_543	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_544	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_545	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_546	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-014;?
+OTU_547	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_548	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;?;?
+OTU_549	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_55	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;?;?
+OTU_550	N/A	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Rubritaleaceae;Luteolibacter;?
+OTU_551	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Peptococcus;?
+OTU_552	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_553	N/A	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;?
+OTU_554	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_555	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;?;?;?
+OTU_556	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;metagenome
+OTU_557	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_558	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;uncultured rumen bacterium
+OTU_559	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Leuconostoc;?
+OTU_56	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_560	sulfate_respiration;	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio;?
+OTU_561	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_562	human_gut;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Oscillibacter;[Clostridium] leptum
+OTU_563	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_564	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_565	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_566	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_567	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;?;?;?
+OTU_568	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;?;?;?
+OTU_569	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;uncultured prokaryote;?
+OTU_57	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_570	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_571	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_572	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_573	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_574	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured organism
+OTU_575	animal_parasites_or_symbionts;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae UCG-001;?
+OTU_576	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_577	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_578	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_579	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_58	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;?;?
+OTU_580	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_581	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;?
+OTU_582	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;?;?
+OTU_583	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiales vadinBB60 group;?;?
+OTU_584	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Gammaproteobacteria;Betaproteobacteriales;Burkholderiaceae;Ralstonia;?
+OTU_585	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_586	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_587	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenellaceae RC9 gut group;?
+OTU_588	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Harryflintia;?
+OTU_589	N/A	Bacteria;Actinobacteria;Coriobacteriia;Coriobacteriales;Eggerthellaceae;?;?
+OTU_59	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;?
+OTU_590	intracellular_parasites;	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Mitochondria;?;?
+OTU_591	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_592	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae UCG-013;?
+OTU_593	N/A	Bacteria;Cyanobacteria;Oxyphotobacteria;Chloroplast;?;?;?
+OTU_594	N/A	Bacteria;Tenericutes;Mollicutes;Mollicutes RF39;?;?;?
+OTU_6	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_60	fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter;?
+OTU_61	N/A	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Corynebacteriaceae;Corynebacterium 1;Corynebacterium kroppenstedtii
+OTU_62	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;uncultured Bacteroidales bacterium;?
+OTU_63	fermentation;	Bacteria;Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;?
+OTU_64	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_65	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae 1;Clostridium sensu stricto 1;?
+OTU_66	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;?
+OTU_67	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;?;?
+OTU_68	fermentation;human_gut;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;?;?
+OTU_69	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_7	fermentation;human_gut;human_pathogens_all;nitrate_reduction;	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;?
+OTU_70	animal_parasites_or_symbionts;fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Roseburia;?
+OTU_71	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_72	animal_parasites_or_symbionts;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotellaceae UCG-001;uncultured Bacteroidales bacterium
+OTU_73	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium;?
+OTU_74	N/A	Bacteria;Actinobacteria;Actinobacteria;Propionibacteriales;Propionibacteriaceae;Cutibacterium;?
+OTU_75	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminiclostridium 5;?
+OTU_76	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
+OTU_77	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_78	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;?
+OTU_79	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Dubosiella;?
+OTU_8	N/A	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Faecalibaculum;Faecalibaculum rodentium
+OTU_80	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;uncultured organism
+OTU_81	aerobic_chemoheterotrophy;	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;?
+OTU_82	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_83	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcus 1;?
+OTU_84	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Marinifilaceae;Odoribacter;uncultured organism
+OTU_85	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_86	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;?;?;?
+OTU_87	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;GCA-900066575;?
+OTU_88	N/A	Bacteria;Epsilonbacteraeota;Campylobacteria;Campylobacterales;Helicobacteraceae;Helicobacter;?
+OTU_89	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;?
+OTU_9	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;?;?;?
+OTU_90	fermentation;	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Lachnospiraceae NK4A136 group;?
+OTU_91	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Marvinbryantia;?
+OTU_92	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_93	fermentation;	Bacteria;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Turicibacter;Turicibacter sp. LA61
+OTU_94	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;ASF356;Clostridium sp. ASF356
+OTU_95	fermentation;	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;?
+OTU_96	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;?;?
+OTU_97	N/A	Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Muribaculaceae;?;?
+OTU_98	fermentation;	Bacteria;Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Weissella;?
+OTU_99	N/A	Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;?;?
