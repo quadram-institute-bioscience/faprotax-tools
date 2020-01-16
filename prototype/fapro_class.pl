@@ -40,21 +40,23 @@ eval {
 
 die " FATAL ERROR:\n Unable to read FAPROTAX db ($opt_db).\n" if ($@);
 
-my @ranks = split /;/, $opt_taxonomy;
+$opt_taxonomy =~s/\?/\*/g;
+my @ranks = split /[;,]/, $opt_taxonomy;
 
 my %hits;
 
-say ">> ", join(', ', @ranks);
+#say ">> ", join(', ', @ranks);
+say Data::Dumper->Dump([\@ranks], [qw(ranks)]);;
 for my $i ( keys %{ $DB->{taxa} }) {
-    
+
     my $pattern = $i;
-    $pattern=~s/\*/\.\*\?/g; 
+    $pattern=~s/\*/\.\*\?/g;
     if ($opt_taxonomy =~/$pattern/) {
-        
+
         for my $hit ( @{ ${ $DB->{taxa} }{$i} }) {
             $hits{$hit}++;
         }
-        
+
     }
 }
 

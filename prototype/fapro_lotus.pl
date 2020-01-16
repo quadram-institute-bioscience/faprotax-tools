@@ -10,15 +10,19 @@ use FindBin qw($RealBin);
 
 my $opt_db = "$RealBin/db/FAPROTAX.db";
 my $opt_verbose;
+my $opt_debug;
 my $opt_help;
 my $opt_input_dir;
 my $opt_outdir;
 my $DB;
+my $taxonomy_file;
 my $_opt = GetOptions(
     'i|lotusdir=s' => \$opt_input_dir,
     'o|outdir=s'   => \$opt_outdir,
+    't|taxon=s'    => \$taxonomy_file,
     'd|database=s' => \$opt_db,
     'v|verbose'    => \$opt_verbose,
+    'd|debug'      => \$opt_debug,
     'h|help'       => \$opt_help,
 );
 
@@ -53,22 +57,24 @@ if (! -e "$opt_db") {
 
 
 eval {
+
     $DB = retrieve($opt_db);
 };
 
-die " FATAL ERROR:\n Unable to read FAPROTAX db ($opt_db).\n" if ($@);
+die " FATAL ERROR:\n Unable to read FAPROTAX db ($opt_db).\n You can set it with -d PATH\n" if ($@);
 
-# TAXONOMY FILE 
+# TAXONOMY FILE
 
 my $otutable_file = "$opt_input_dir/OTU.txt";
-my $taxonomy_file;
-if (-e "$opt_input_dir/hiera_RDP.txt") {
-    $taxonomy_file = "$opt_input_dir/hiera_RDP.txt";
+if (not defined $taxonomy_file) {
+  if (-e "$opt_input_dir/hiera_RDP.txt") {
+      $taxonomy_file = "$opt_input_dir/hiera_RDP.txt";
 
-} elsif (-e "$opt_input_dir/hiera_BLAST.txt") {
-    $taxonomy_file = "$opt_input_dir/hiera_BLAST.txt";
-} else {
-    die " FATAL ERROR:\n Unable to find taxonomy hierarchy in $opt_input_dir: hiera_RDP.txt / hiera_BLAST.txt\n";
+  } elsif (-e "$opt_input_dir/hiera_BLAST.txt") {
+      $taxonomy_file = "$opt_input_dir/hiera_BLAST.txt";
+  } else {
+      die " FATAL ERROR:\n Unable to find taxonomy hierarchy in $opt_input_dir: hiera_RDP.txt / hiera_BLAST.txt\nYou can specify it with --taxon FILE\n";
+  }
 }
 verbose("Taxonomy:     $taxonomy_file");
 
@@ -106,7 +112,7 @@ sub print_otutable {
         $c++;
         chomp($l);
         if ($c == 1) {
-            
+
             (undef, @samples) = split /\t/, $l;
             say {$O} "Class\t", join("\t", @samples);
         } else {
@@ -122,15 +128,15 @@ sub print_otutable {
                 next unless ($class);
                 for (my $i = 0; $i <= $#samples; $i++) {
                     my $sample_name = $samples[$i];
-                    
+
                     if ($counts->{$class}->{$sample_name}) {
                         $counts->{$class}->{$sample_name} += $sample_counts[$i];
                     } else {
                         $counts->{$class}->{$sample_name} = $sample_counts[$i];
                     }
-                    
+
                 }
-             
+
             }
 
         }
@@ -146,8 +152,8 @@ sub print_otutable {
             } else {
                 print {$O} "\t";
             }
-        } 
-     
+        }
+
     }
 }
 
@@ -167,17 +173,20 @@ sub print_classes {
 sub classify_otus {
     my ($otu_hash) = @_;
     my %classification;
+    debug("[classify_otus]");
     for my $otu (sort keys %$otu_hash) {
         my $tax = $$otu_hash{$otu};
         my %hits;
+        debug("$otu -> $tax");
         for my $i ( keys %{ $DB->{taxa} }) {
             my $pattern = $i;
-            $pattern=~s/\*/\.\*\?/g; 
+            $pattern=~s/\*/\.\*\?/g;
             if ($tax =~/$pattern/) {
                 for my $hit ( @{ ${ $DB->{taxa} }{$i} }) {
                     $hits{$hit}++;
                 }
             }
+            debug(" ->$tax =~/$pattern/ ? ");
         }
         for my $h (sort keys %hits) {
             $classification{$otu} .= "$h;";
@@ -190,15 +199,15 @@ sub classify_otus {
 
 # my %hits;
 # for my $i ( keys %{ $DB->{taxa} }) {
-    
+
 #     my $pattern = $i;
-#     $pattern=~s/\*/\.\*\?/g; 
+#     $pattern=~s/\*/\.\*\?/g;
 #     if ($opt_taxonomy =~/$pattern/) {
-        
+
 #         for my $hit ( @{ ${ $DB->{taxa} }{$i} }) {
 #             $hits{$hit}++;
 #         }
-        
+
 #     }
 # }
 
@@ -209,11 +218,12 @@ sub classify_otus {
 
 sub load_taxonomy {
     my ($file) = @_;
+    debug("[load_taxonomy]: $file");
     my $I;
     my %taxonomy;
     if (not open  $I, '<', "$file") {
         return die " FATAL ERROR:\n Unable to open file \"$file\".\n";
-        
+
     }
 
     # OTU      Domain  Phylum  Class   Order   Family  Genus   Species
@@ -259,7 +269,7 @@ sub usage {
 
   -o, --outdir
                    Output directory (def: input_dir/function)
-  -d, --database   
+  -d, --database
                    FAPROTAX database as produced by
                    fapro_parse.pl (def: ./db/FAPROTAX.db)
 END
@@ -267,5 +277,10 @@ END
 
 sub verbose {
     my $message = shift @_;
-    say STDERR "# $message" if ($opt_verbose);
+    say STDERR "# $message" if ($opt_verbose or $opt_debug);
+}
+
+sub debug {
+    my $message = shift @_;
+    say STDERR "~ $message" if ($opt_debug);
 }
